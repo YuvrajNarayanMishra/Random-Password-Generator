@@ -19,7 +19,7 @@
 
 Run Using This Link : https://yuvrajnarayanmishra.github.io/RandomPasswordGenerator.github.io/
 
-<h3> Video Demo </h3>
+<h3> Demo Here </h3>
 
 ![demo](https://user-images.githubusercontent.com/99082388/233193093-2e62a9b1-0887-4eb8-b92f-3c2bc0f812f2.png)
 <br>
