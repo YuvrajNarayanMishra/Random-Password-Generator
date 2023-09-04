@@ -17,7 +17,7 @@
 
 ---
 
-Run Using This Link : https://yuvrajnarayanmishra.github.io/RandomPasswordGenerator.github.io/
+Run Using This Link : https://yuvrajnarayanmishra.github.io/Random-Password-Generator/
 
 <h3> Demo Here </h3>
 
