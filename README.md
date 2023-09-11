@@ -1,8 +1,8 @@
 <h1>Random Strong Password Generator</h1>
 
-<p>Generates a strong random password and has a copy functionality.</p>
+<p>This helps to generate a password that is strong enough to prevent the account from any kind of cyber attacks.It Generates random strong passwords that consists of combination of letters, numbers, cases, and symbols to form an unpredictable string of characters that doesn’t resemble words or names.</p>
 
-### Use of the Project:
+### Working:
 
 <p>User clicks on the "Generate button" to obtain a random password and clicks on the clipboard icon to copy the generated password.</p>
 
@@ -11,6 +11,7 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>Bootstrap</li>
 </ul>
 
 #### Steps to Use:
