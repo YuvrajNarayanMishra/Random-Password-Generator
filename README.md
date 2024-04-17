@@ -1,4 +1,4 @@
-<h1>Random Strong Password Generator</h1>
+<h1>Random Password Generator</h1>
 
 <p>This helps to generate a password that is strong enough to prevent the account from any kind of cyber attacks.It Generates random strong passwords that consists of combination of letters, numbers, cases, and symbols to form an unpredictable string of characters that doesn’t resemble words or names.</p>
 
